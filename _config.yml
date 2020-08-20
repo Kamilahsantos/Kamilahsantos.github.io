@@ -18,15 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Laura Damaceno de Almeida
-email: lauradamaceno60107@gmail.com
+title: Kamila Santos Oliveira
 description: #>-  this means to ignore newlines until "baseurl:"
-  Futura cientista da Computação, Pylady no Pyladies São Paulo, cofundadora do AI Girls e organizadora da comunidade DevAI Women.
+Desenvolvedora backend java, bacharel em ciência da computação e coorganizadora das comunidades perifacode, devsjavagirl, womakerscode e nerdzao
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lauradamacenoalmeida.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  lauradamacenoalmeida
-linkedin_username: laura-damaceno
-author: Laura Damaceno de Almeida
+url: "https://kamilahsantos.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: Kamilahsantos
+linkedin_username: kamila-santos-oliveira
+author: Kamila santos oliveira
 background: "/img/bg-home-2.jpeg"
 
 google_analytics: 'UA-163090919-1'
